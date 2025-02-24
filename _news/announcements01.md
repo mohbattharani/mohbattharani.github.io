@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One paper accept at CIKM 2024
+title: One paper accepted at CIKM 2024
 subtitle: "LLaVA-Chef: A Multi-modal Generative Model for Food Recipes"
 inline: False
 date: Aug 22, 2024
