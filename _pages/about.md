@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-**<span style="color: blue;">open for new opportunities</span>**
+**<span style="color: green;"> *** open for new opportunities *** </span>**
 
 
 I am a Ph.D. Candidate in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu), advised by [Prof. Mohammad J. Zaki](https://www.cs.rpi.edu/~zaki/). My research focuses on improving Large Language Models (LLMs) and Multi-Modal Models (MMMs) by integrating Knowledge Graphs (KGs) through Retrieval-Augmented Generation (RAG), with applications in food computing, document understanding, and text generation. I have collaborated with researchers at IBM Research, where I worked on visually rich document understanding and bias in multi-modal LLMs.
