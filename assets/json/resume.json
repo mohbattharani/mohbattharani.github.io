@@ -5,12 +5,12 @@
     "image": "",
     "email": "mohbattharani@gmail.com",
     "Web": "https://mohbattharani.github.io/mohbat.github.io",
-    "Research Interests": "Multimedia Models, LLMs and RAG, Computer Vision, NLP, Deep Learning",
+    "Research Interests": "Multi-modal Models, LLMs and RAG, Computer Vision, NLP, Deep Learning",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Troy, NY",
       "countryCode": "",
       "region": ""
     },
@@ -76,7 +76,7 @@
       },
       {
         "institution": "Ivy Tech Community College",
-        "location": "FortWayne, IN, USA",
+        "location": "Fort Wayne, IN, USA",
         "url": "https://www.ivytech.edu/locations/fort-wayne/",
         "area": "Engineering",
         "studyType": "Undergraduate Exchange",
@@ -136,8 +136,13 @@
   ],
   "volunteer": [
     {
-      "title": "Reviewer: ACM International Conference on Information and Knowledge Management (CIKM)",
-      "date":"2024"}
+      "date":"2025",
+      "title": "Reviewer: Computer Vision and Pattern Recognition (CVPR)"
+      },
+      {
+        "date":"2024",
+        "title": "Reviewer: ACM International Conference on Information and Knowledge Management (CIKM)"
+      }
   ],
   
   "awards": [],
