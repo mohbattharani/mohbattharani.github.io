@@ -25,15 +25,19 @@
   "skills": [
       {
         "name": "Programming Languages",
-        "keywords": "Python, Java, C, C++"
+        "keywords": "Python, C/C++, MATLAB, C#, VB .Net"
       },
       {
         "name": "Libraries",
-        "keywords": "PyTorch, TensorFlow, Keras, OpenCV, Pillow, NumPy, ROS"
+        "keywords": "PyTorch, PyTorch Geometric, TensorFlow, Keras, OpenCV, Pillow, NumPy, PCL, ROS"
+      },
+      {
+        "name": "Platforms",
+        "keywords": "IBM Power 9, HPC, Nvidia Jetson, Odroid, Raspberry Pi, Arduino, Intel80xx"
       },
       {
         "name": "Other Tools",
-        "keywords": "Git, LaTeX, Docker, AutoCAD, MATLAB"
+        "keywords": "Git, LaTeX, Docker, AutoCAD"
       }
   ],
   "education": [
@@ -132,7 +136,7 @@
   ],
   "volunteer": [
     {
-      "service": "Reviewer: ACM International Conference on Information and Knowledge Management (CIKM)",
+      "title": "Reviewer: ACM International Conference on Information and Knowledge Management (CIKM)",
       "date":"2024"}
   ],
   
