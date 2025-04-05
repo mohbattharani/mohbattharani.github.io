@@ -28,8 +28,12 @@
         "keywords": "Python, C/C++, MATLAB, C#, VB .Net"
       },
       {
-        "name": "Libraries",
-        "keywords": "PyTorch, PyTorch Geometric, TensorFlow, Keras, OpenCV, Pillow, NumPy, PCL, ROS"
+        "name": "ML Frameworks",
+        "keywords": "PyTorch, PyTorch Geometric, TensorFlow, Keras, langchain, LlamaIndex"
+      },
+      {
+        "name": "CV & Robotics",
+        "keywords": "OpenCV, Pillow, PCL, ROS"
       },
       {
         "name": "Platforms",
