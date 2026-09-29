@@ -90,16 +90,34 @@
         "courses": []
       }
   ],
-  "Research Experience": [
+  "Experience": [
+    {
+        "name": "TWG Global",
+        "location": "Santa Monica, CA",
+        "position": "AI Researcher & Developer",
+        "url": "https://www.twgglobal.com",
+        "startDate": "2025-08",
+        "endDate": "Present",
+        "summary": "Developed agentic AI systems to improve customer experience and assist in fault analysis and resolution, leveraging domain-specific data such as time series, customer feedback, and system logs."
+      },
     {
       "name": "Rensselaer Polytechnic Institute",
       "location": "Troy, NY, USA",
       "position": "Graduate Research Assistant",
       "url": "https://www.rpi.edu",
-      "startDate": "2021-08-01",
-      "endDate": "Present",
+      "startDate": "2021-01",
+      "endDate": "2025-05",
       "summary": "Conducting research to enhance Large Language Models (LLMs) and Multi-Modal Models (MMMs) using Knowledge Graphs (KGs) and Retrieval-Augmented Generation (RAG) for food computing applications."
     },
+    {
+        "name": "Nokia Bell Labs",
+        "location": "New Providence, NJ",
+        "position": "Machine Learning Research Intern",
+        "url": "https://www.nokia.com/networks/innovation/nokia-bell-labs/",
+        "startDate": "2025-05",
+        "endDate": "2025-08",
+        "summary": "Developed agentic AI systems to improve customer experience and assist in fault analysis and resolution, leveraging domain-specific data such as time series, customer feedback, and system logs."
+      },
     {
         "name": "IBM Thomas J. Watson Research Center",
         "location": "Remote",
