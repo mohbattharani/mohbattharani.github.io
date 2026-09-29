@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Fnu Mohbat",
-    "": "Ph.D. Candidate",
+    "": "",
     "image": "",
     "email": "mohbattharani@gmail.com",
     "Web": "https://mohbattharani.github.io/mohbat.github.io",
-    "Research Interests": "Multi-modal Models, LLMs and RAG, Computer Vision, NLP, Deep Learning",
+    "Research Interests": "Multi-modal Learning, LLMs and RAG, Computer Vision, NLP, Deep Learning",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Troy, NY",
+      "city": "Santa Monica, CA",
       "countryCode": "",
       "region": ""
     },
@@ -24,26 +24,26 @@
   },
   "skills": [
       {
-        "name": "Programming Languages",
-        "keywords": "Python, C/C++, MATLAB, C#, VB .Net"
+        "name": "LLM & NLP",
+        "keywords": "Pretraining & Post-training (SFT, LoRA/PEFT, RLHF), RAG, GraphRAG, Knowledge Graphs, Agentic AI"
       },
       {
-        "name": "ML Frameworks",
-        "keywords": "PyTorch, PyTorch Geometric, TensorFlow, Keras, langchain, LlamaIndex"
+        "name": "AI/ML Frameworks",
+        "keywords": "PyTorch, PyTorch Geometric, TensorFlow, LangChain, LlamaIndex, FAISS, Chroma"
+      },
+      {
+        "name": "Cloud & Platforms",
+        "keywords": "Palantir Foundry, AWS, Azure, IBM Power9, HPC, Nvidia Jetson"
+      },
+      {
+        "name": "Programming Languages",
+        "keywords": "Python, C/C++, MATLAB, C#"
       },
       {
         "name": "CV & Robotics",
-        "keywords": "OpenCV, Pillow, PCL, ROS"
-      },
-      {
-        "name": "Platforms",
-        "keywords": "IBM Power 9, HPC, Nvidia Jetson, Odroid, Raspberry Pi, Arduino, Intel80xx"
-      },
-      {
-        "name": "Other Tools",
-        "keywords": "Git, LaTeX, Docker, AutoCAD"
+        "keywords": "OpenCV, PCL, ROS"
       }
-  ],
+    ],
   "education": [
     {
         "institution": "Rensselaer Polytechnic Institute",
